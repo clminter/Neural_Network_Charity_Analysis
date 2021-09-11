@@ -46,5 +46,29 @@ Increase the threshold for class type from 500 to 700:
 
 ![image](https://user-images.githubusercontent.com/81878169/132957877-0960353d-39c3-46aa-bfbc-b2e1d765188f.png)
 
+Redefine hidden nodes and add 3rd hidden layer; change all activations to 'relu':
+
+![image](https://user-images.githubusercontent.com/81878169/132957936-694b65bf-2b32-4539-958f-145b04f9b83f.png)
+
+
 
 ## Summary
+
+### Origninal Model:
+
+![image](https://user-images.githubusercontent.com/81878169/132958125-ec4a2922-bc36-491e-afa3-ee3ced801c0a.png)
+
+### Optimization Model Attempt A
+
+![image](https://user-images.githubusercontent.com/81878169/132958163-65088a10-fe44-469e-96e5-4d08d49aa84e.png)
+
+
+### Optimization Model Attempt B
+
+![image](https://user-images.githubusercontent.com/81878169/132958185-10dc7183-db31-4e54-b3de-66594df7bbb9.png)
+
+
+### Optimization Model Attempt C
+
+![image](https://user-images.githubusercontent.com/81878169/132958202-fcbbb291-7ae8-47c7-9065-6fbebfd5a89e.png)
+
