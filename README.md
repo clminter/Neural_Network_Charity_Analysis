@@ -24,6 +24,18 @@ Data is split into feature and target arrays; Data is scaled using the StandardS
 
 ![image](https://user-images.githubusercontent.com/81878169/132957616-d590bf89-96d0-4410-987f-b81502b798b1.png)
 
+### Compile, Train, and Evaluate the Model
+Define model, define features, layers and nodes:
+
+![image](https://user-images.githubusercontent.com/81878169/132957717-39373e7d-a725-42e4-b34d-8951dfb44b7e.png)
+
+Compile the Model:
+
+![image](https://user-images.githubusercontent.com/81878169/132957744-8dc2ddce-ad3b-4e29-9eb4-9fed1a0e1ed7.png)
+
+Train and Evaluate the Model:
+
+![image](https://user-images.githubusercontent.com/81878169/132957767-a5a8566e-d78d-4fb1-9860-61b0f0ef2f84.png)
 
 
 
