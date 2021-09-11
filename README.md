@@ -50,6 +50,9 @@ Redefine hidden nodes and add 3rd hidden layer; change all activations to 'relu'
 
 ![image](https://user-images.githubusercontent.com/81878169/132957936-694b65bf-2b32-4539-958f-145b04f9b83f.png)
 
+![image](https://user-images.githubusercontent.com/81878169/132958632-9cbe27ee-ccc3-4aa5-b501-dc3debf75390.png)
+
+
 
 
 ## Summary
