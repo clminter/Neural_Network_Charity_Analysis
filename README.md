@@ -58,17 +58,25 @@ Redefine hidden nodes and add 3rd hidden layer; change all activations to 'relu'
 
 ![image](https://user-images.githubusercontent.com/81878169/132958125-ec4a2922-bc36-491e-afa3-ee3ced801c0a.png)
 
-### Optimization Model Attempt A
+### Optimization Model Attempt A:
 
 ![image](https://user-images.githubusercontent.com/81878169/132958163-65088a10-fe44-469e-96e5-4d08d49aa84e.png)
 
 
-### Optimization Model Attempt B
+### Optimization Model Attempt B:
 
 ![image](https://user-images.githubusercontent.com/81878169/132958185-10dc7183-db31-4e54-b3de-66594df7bbb9.png)
 
 
-### Optimization Model Attempt C
+### Optimization Model Attempt C:
 
 ![image](https://user-images.githubusercontent.com/81878169/132958202-fcbbb291-7ae8-47c7-9065-6fbebfd5a89e.png)
 
+Of the 4 models tested 2 used two hidden layers and 2 used 3 hidden layers.  Additionally, the nodes within the hidden layers was adjusted up and down per model to determine if accuracy was improved. Activation functions including:
+- relu
+- sigmoid
+- tanh
+- gelu
+where studied to detemine their effectiveness in improving accuracy.
+
+I was not able to achieve the 75% accuracy in the 3 optimization attempts. I focused most of my effort in 'tuning' the neural network by adjusting hidden layers, neurons, and activation functions.  I suspect many more and many more iterations at tuning these features will not result in marked improvement.  However, further inquiry into the dataset along with additional preprossing steps in order to create more bins for columns with rare occurances could result in the desired improvement.
