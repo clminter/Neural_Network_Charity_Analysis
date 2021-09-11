@@ -37,6 +37,14 @@ Train and Evaluate the Model:
 
 ![image](https://user-images.githubusercontent.com/81878169/132957767-a5a8566e-d78d-4fb1-9860-61b0f0ef2f84.png)
 
+### Optimize the Model
+Dropping additional columns:
+
+![image](https://user-images.githubusercontent.com/81878169/132957838-4b26a8ef-16cd-4f9f-91be-e52d1988e228.png)
+
+Increase the threshold for class type from 500 to 700:
+
+![image](https://user-images.githubusercontent.com/81878169/132957877-0960353d-39c3-46aa-bfbc-b2e1d765188f.png)
 
 
 ## Summary
